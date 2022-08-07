@@ -1,6 +1,6 @@
 # MicroDesignUI框架
 
-![](https://github.com/micro-design-awesome/micro-design-ui/blob/master/docs/assets/yd.png?raw=true)
+![](https://github.com/micro-design-awesome/micro-design-ui/blob/master/docs/assets/logo.png?raw=true)
 <div align="center">
 	<a href="https://bugstack.cn/md/other/guide-to-reading.html">
         <img src="https://bugstack.cn/images/system/CodeGuide-Read.svg">     

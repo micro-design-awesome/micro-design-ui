@@ -45,8 +45,8 @@
 - [x] [`难度【★★★★★】【PDF专属】第 17 章：攻无不克，通过三级缓存解决循环依赖`](https://download.csdn.net/download/Yao__Shun__Yu/21009038)
 - [x] [`难度【★★★★☆】【PDF专属】第 18 章：挂印封刀，数据类型转换工厂设计实现`](https://download.csdn.net/download/Yao__Shun__Yu/21009038)
 
-#### 关注我们
-<div align="center">
+<!-- #### 关注我们 -->
+<!-- <div align="center">
 	<table>
         <tr>
             <td align=“center">添加微信：fustack</td>
@@ -57,5 +57,5 @@
             <td align=“center"><img src="https://bugstack.cn/images/personal/qrcode.png" width="128px"></td>
         </tr>
     </table>
-</div>
+</div> -->
 
